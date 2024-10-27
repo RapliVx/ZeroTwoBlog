@@ -1,13 +1,13 @@
-baseURL = 'https://blog.rem01gaming.dev/'
+baseURL = 'https://blog.raplizerotwo.dev/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
-title = 'Rem01.Chat()'
-copyright = 'Rem01Gaming'
+title = 'RapliWarehouse'
+copyright = 'RapliVx'
 paginate = 5
 [params]
   defaultCover = 'https://www.apple.com.cn/newsroom/images/apple-logo_black.jpg.landing-regular_2x.jpg'
-  email = 'Rem01_Gaming@proton.me'
+  email = 'raffikun1203@gmail.com'
   ShowCopyRight = true
   ShowMore = true
   ShowRSS = false
