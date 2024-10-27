@@ -3,7 +3,7 @@ title: "How To Enable Bypass Charging On Any MediaTek Devices"
 description: ""
 date: 2024-10-26T14:55:20+07:00
 tags: ["Android","MediaTek","Linux","kernel","Bypass Charging"]
-cover: '/posts/bypass-charging-on-mediatek/ogp.jpg'
+cover: '/content/posts/bypass-charging-on-mediatek/ogp.jpg'
 author: Rem01Gaming
 draft: false
 ---
