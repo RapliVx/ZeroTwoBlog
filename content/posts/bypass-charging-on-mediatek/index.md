@@ -8,7 +8,7 @@ author: Rem01Gaming
 draft: false
 ---
 
-![Source: The Daily Messenger](/posts/bypass-charging-on-mediatek/ogp.jpg)
+![Source: The Daily Messenger](/content/posts/bypass-charging-on-mediatek/ogp.jpg)
 
 Batteries in smartphones are engineered to endure a specific number of charge-discharge cycles. As you use your phone more frequently, it drains faster, requiring more frequent charging. This continuous cycle gradually deteriorates the battery's chemical composition, impairing performance and significantly reducing its capacity to hold a charge.
 
