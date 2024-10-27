@@ -2,7 +2,7 @@ baseURL = 'https://blog.raplizerotwo.dev/'
 languageCode = 'en'
 defaultContentLanguage = "en"
 hasCJKLanguage = true
-title = 'RapliWarehouse'
+title = 'Rapli Warehouse'
 copyright = 'RapliVx'
 paginate = 5
 [params]
